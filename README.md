@@ -1,1 +1,5 @@
-# DiabetesDiagnosisWithML
+
+Diabetes mellitus is one of the most common disease of the age, has a major role in the formation of most diseases and is common in all parts of the world.This disease, popularly known as diabetes, is a condition where the level of glucose in the blood rises above the 70-100 mg/dL range. The reason for the disease is that insulin production is inadequate or not at all for any reason, or that body tissues become desensitized to insulin. According to the statistical data provided by the International Diabetes Federation, one in 11 adults has diabetes and 1 person dies every 6 seconds due to diabetes-related problems. In this project, logistic regression, k nearest neighbor algorithm (KNN) support vector machines (SVM) methods were used for prediction of diabetes disease. The results showed that individuals with diabetes had an estimated low margin of error.
+
+for more information please visit 
+https://medium.com/@aysincetin/makine-öğrenmesi-yöntemleriyle-diyabet-hastalığı-teşhisi-a7b18ba3a0fb
